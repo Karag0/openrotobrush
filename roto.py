@@ -3,7 +3,7 @@ from tkinter import filedialog, ttk
 import cv2
 import numpy as np
 from PIL import Image, ImageTk
-from ultralytics import FastSAM
+from ultralytics import YOLO
 import threading
 import os
 
